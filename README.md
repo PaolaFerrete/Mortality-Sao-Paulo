@@ -1,6 +1,6 @@
 # Manipulation of mortality data
 
-* Note: Object under construction *
+*Note: Object under construction
 
 ### Information about data
 
